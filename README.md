@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GermanPrudivus
-- 👀 I’m interested in programing mobile apps.
+- 👀 I’m interested in programming mobile apps.
 - 🌱 I’m currently learning flutter and java.
 - 💞️ I’m looking to collaborate on any mobile app developing.
 - 📫 You can reach me through email german.prudivus1008@gmail.com.
