@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GermanPrudivus
-- 🌱 I’m currently learning Flutter and NodeJs.
+- 🌱 I’m currently learning Flutter and NodeJS.
 - 📫 You can reach me through email german.prudivus1008@gmail.com.
 
 <!---
