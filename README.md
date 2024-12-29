@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GermanPrudivus
-- 🌱 I’m currently learning Flutter, Dart, Java, JavaScript, HTML, CSS, Swift, Kotlin and XML.
+- 🌱 I’m currently learning Flutter, Dart, Java, JavaScript, HTML, CSS, Swift, Kotlin and React.
 - 📫 You can reach me through email german.prudivus1008@gmail.com.
 
 <!---
