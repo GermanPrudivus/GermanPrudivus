@@ -12,7 +12,7 @@ I am expanding my expertise in the following technologies:
 Based in **Eindhoven, Netherlands**, I’m part of the vibrant **VirtuosoHub** tech community.
 
 ## 📫 Let's Connect!
-- **Email**: [german.prudivus1008@gmail.com](mailto:german.prudivus1008@gmail.com)  
+- **Email**: [germans.prudivus@gmail.com](mailto:german.prudivus1008@gmail.com)  
 - **Twitter**: [@g3rm1n_](https://twitter.com/g3rm1n_)  
 - **LinkedIn**: [Germans Prudivus](https://linkedin.com/in/germans-prudivus)  
 
