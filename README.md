@@ -9,7 +9,7 @@ I am expanding my expertise in the following technologies:
 - **Programming Languages**: Java  
 
 ## 📍 Location
-Based in **Eindhoven, Netherlands**, I’m part of the vibrant **VirtuosoHub** tech community.
+Based in **Eindhoven, Netherlands**, I’m part of the vibrant **VirtuosoHub** tech startup.
 
 ## 📫 Let's Connect!
 - **Email**: [germans.prudivus@gmail.com](mailto:german.prudivus1008@gmail.com)  
