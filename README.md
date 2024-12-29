@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @GermanPrudivus
-- 🌱 I’m currently learning Flutter, Dart, Java, JavaScript, HTML, CSS, Swift, Kotlin and React.
-- 📫 You can reach me through email german.prudivus1008@gmail.com.
+# 👋 Welcome to German Prudivus' GitHub Profile!
 
-<!---
-GermanPrudivus/GermanPrudivus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I'm **German Prudivus** (he/him), a **Bachelor of Computer Science and Engineering** student at the **Eindhoven University of Technology**, with a keen passion for **full-stack mobile app development**.
+
+## 🌱 Currently Exploring
+I am expanding my expertise in the following technologies:
+- **Mobile Development**: Flutter, Dart, Swift, Kotlin  
+- **Web Development**: JavaScript, React, HTML, CSS  
+- **Programming Languages**: Java  
+
+## 📍 Location
+Based in **Eindhoven, Netherlands**, I’m part of the vibrant **VirtuosoHub** tech community.
+
+## 📫 Let's Connect!
+- **Email**: [german.prudivus1008@gmail.com](mailto:german.prudivus1008@gmail.com)  
+- **Twitter**: [@g3rm1n_](https://twitter.com/g3rm1n_)  
+- **LinkedIn**: [Germans Prudivus](https://linkedin.com/in/germans-prudivus)  
+
+Feel free to explore my repositories, and don’t hesitate to reach out for collaboration or just to say hi. Happy coding! 🚀
